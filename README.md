@@ -1,4 +1,4 @@
-# This repo containsplugins for Revenge.
+# This repo contains plugins for Revenge.
 
 ---
 
