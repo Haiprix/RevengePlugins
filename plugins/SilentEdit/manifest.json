@@ -1,10 +1,10 @@
 {
-    "name": "Silent Edit",
+    "name": "Silent Edit+",
     "description": "edit messages without showing (edited) on the message.",
     "authors": [
         {
-            "name": "coder.gg",
-            "id": "1099039269391171765"
+            "name": "Loki",
+            "id": "918437723755384832"
         }
     ],
     "main": "src/index.ts",
